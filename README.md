@@ -27,8 +27,8 @@
 | Project | Stack | Description |
 |--------|-------|-------------|
 | **QuestionConnect** | MEAN Stack | A community Q&A platform with voting and threaded replies |
-| **Kwasha App** | Next.js, CSS | A responsive site for a non-profit supporting child education |
-| **Portfolio App** | React, JavaScript | Displays all of my work and skills in a single-page app |
+| **KwashaKids** | Next.js, CSS | A responsive site for a non-profit supporting child education |
+| **Portfolio(in progress)** | React, JavaScript | Displays all of my work and skills in a single-page app |
 | **IceMetrics** | OpenCV, YOLO, React, FastAPI | Hockey analytics platform for tracking players & puck in real-time |
 | **League Database** | Node.js, SQL | CRUD app for managing sports league data |
 
