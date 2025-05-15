@@ -36,8 +36,8 @@
 
 📫 **Connect with Me**
 - 📍 St. Louis, Missouri
-- 💼 [LinkedIn](https://linkedin.com/in/jake81morgan)
-- 🧠 [My Portfolio](https://github.com/jake81morgan/portfolio-app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jackson-morgan-b0782228b/)
+- 🧠 [My Portfolio (Coming Soon)]
 - ✉️ Email: `jake81morgan@gmail.com`
 
 ---
