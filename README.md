@@ -38,6 +38,6 @@
 - 📍 St. Louis, Missouri
 - 💼 [LinkedIn](https://linkedin.com/in/jake81morgan)
 - 🧠 [My Portfolio](https://github.com/jake81morgan/portfolio-app)
-- ✉️ Email: `jake81morgan [at] gmail.com`
+- ✉️ Email: `jake81morgan@gmail.com`
 
 ---
